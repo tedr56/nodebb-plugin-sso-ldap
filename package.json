@@ -25,7 +25,8 @@
   },
   "readme": "",
   "dependencies": {
-    "passport-ldap": "git://github.com/mintbridge/passport-ldap.git#master"
+    "package.json": "^2.0.1",
+    "passport-ldapauth": "git://github.com/vesse/passport-ldapauth.git#master"
   },
   "readmeFilename": "README.md"
 }
